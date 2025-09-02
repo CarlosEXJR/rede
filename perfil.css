@@ -80,11 +80,22 @@ footer {
     transition: 0.3s;     /* Suaviza a animação ao passar o mouse */
     color: #000000;
 }
-.emoti a i:hover {
+#insta:hover {
     opacity: 0.7;
     color: red;
-    
-  }
+}
+#insta {
+    opacity: 0.7;
+    color: red;
+}
+#face {
+    opacity: 0.7;
+    color: blue;
+}
+#you {
+    opacity: 0.7;
+    color: #FF0000;
+}
 .barra-seguidores {
     padding: 15px;
 
